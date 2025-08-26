@@ -1,0 +1,168 @@
+Automated Testing (test automation),"A set of techniques, approaches, and tools that allow removing the human from performing certain tasks during the testing process. ",Theory
+Alpha Testing,"Performed on the developer’s premises, but not by the developer’s team — by potential or existing customers and/or operators, or an independent testing group.",Theory
+Test Analysis,An activity aimed at identifying test conditions through the analysis of the test basis.,Test Design
+API (Application Programming Interface),Mechanisms that allow two software components to interact with each other using a set of definitions and protocols.,Web
+Database (DB),An organized collection of structured information or data that is typically stored electronically in a computer system.,Databases
+Load Balancer,A device that distributes traffic among multiple servers to ensure optimal system performance and prevent server overload.,Web
+Beta Testing,Performed by potential or existing customers and/or operators at their own premises.,Theory
+Business Requirements,"Describe the purpose behind the development of the product (why it is needed, what benefit it is expected to bring, and how the client will profit from it).",Theory
+Bash,A command shell and scripting language that is one of the most widely used interfaces in Unix and Unix-like operating systems.,Git & Bash
+Validation,Confirmation by examination that a work product meets the needs of stakeholders. ,Theory
+Use Cases,Scenarios of interaction between a user (or users) and the software product to achieve a specific goal.,Theory
+Web Application,Software that runs in a web browser.,Web
+Website,"A collection of web pages under one domain name, interconnected in some way.",Web
+Web Server,A computer that provides the hardware and software required for a website to function.,Web
+Web Service,An implementation of clearly defined data exchange interfaces between different applications written in various languages and distributed across network nodes.,Web
+Web Page,"A document that can be displayed by web browsers such as Firefox, Google Chrome, Microsoft Internet Explorer / Edge, or Apple Safari.",Web
+Verification,Confirmed by objective evidence that specified requirements have been fulfilled.,Theory
+Customer Lead Time (in Kanban),The period during which the customer waits for the delivery of an item (usually from request to delivery).,Theory
+Lead Time (LT) in Kanban,The time an item spends in the process between the commitment point and the delivery point.,Theory
+High-Level Test Case,A test case without specific input data or expected results.,Theory
+V-Model,A sequential development lifecycle model that describes a one-to-one relationship between major development phases (from business requirement specification to delivery) and corresponding testing levels (from acceptance to component testing).,Theory
+WIP Limits in Kanban,"Control the number of tasks in the system, improving the value flow to customers. These limits act as signals.",Theory
+Boundary Condition,A value that lies on the edge of equivalence classes.,Test Design
+Git,A distributed version control system that allows developers to track file changes and coordinate work on shared projects.,Git & Bash
+Denormalization,A process used to optimize database performance by adding redundancy.,Databases
+Destructive Testing,A form of negative testing aimed at breaking the application to find failure points.,Theory
+"Defect (bug, problem, fault)",A flaw in a component or system that may lead to failure or malfunction.,Documentation
+Defect,An imperfection or deficiency in a work product that results in deviation from requirements or specifications.,Documentation
+Cause-Effect Diagram,A graphical representation of logical relationships between inputs (causes) and their associated outputs (effects).,Test Design
+Dynamic Testing,Testing that is performed while the test item is running.,Theory
+Sprint Board,A tool used to visualize the Sprint Backlog during the Sprint.,Theory
+Smoke Testing,"Aimed at verifying the most critical functionality, whose failure would render the application unusable.",Theory
+Developers in Scrum,People in the Scrum Team committed to creating any aspect of a usable Increment in each Sprint.,Theory
+DNS,A system that enables the browser to locate a website by domain name.,Web
+Software Development Life Cycle (SDLC),The period from the initial concept of software to the moment when it is no longer usable.,Theory
+Software Testing Life Cycle (STLC),A structured testing process with defined steps to ensure quality goals are met.,Theory
+Stakeholder,"A person providing feedback to the Product Owner and Scrum Team regarding vision, backlog, and increments. Often participates in Sprint Review and is part of the product organization.",Theory
+Incremental Development Model,A lifecycle model where a component or system is developed through a series of functional increments. ,Theory
+Installation Testing,Testing aimed at identifying defects that affect the installation stage of the application.,Theory
+Integration Testing,A testing level focusing on interactions between components or systems.,Theory
+Internet,The underlying infrastructure that enables the Web — the technical foundation of the World Wide Web.,Web
+Exploratory Testing,A semi-formal approach in which the tester works with the application using a chosen scenario that is refined during execution to explore the application more thoroughly.,Theory
+Iterative Development Model,A type of software development lifecycle model in which a component or system is developed through a series of repeated cycles.,Theory
+Improvement,A request to improve existing functionality.,Theory
+Increment,A concrete step toward achieving the Product Goal. (in Scrum),Theory
+IP Address (Internet Protocol),A unique address assigned to a device in a network.,Web
+Cadences (in Kanban),Regular meetings and reviews that lead to evolutionary changes and effective service delivery. (in Kanban),Theory
+Kanban,"A method for defining, managing, and improving services that deliver intellectual work such as expert, creative services, or software/hardware development.",Theory
+Kanban Systems,Flow-based systems that deliver results with Work In Progress (WIP) limits through the use of visual signals.,Theory
+Equivalence Class,A set of data processed in the same way and resulting in the same outcome.,Test Design
+Client-Server Architecture,A computing or network architecture where workloads are divided between service providers (servers) and service requesters (clients).,Web
+Response Code (Status Code),Indicates whether a specific request has been successfully completed.,Web
+Commit,A record in the repository's change history that contains a snapshot of all project files at the time of the commit.,Git & Bash
+Component Testing (Glossary),A testing level for individual hardware or software components.,Theory
+Component Testing,A type of software testing where each component is tested in isolation without integrating with others.,Theory
+Concurrency Testing,Testing the application's behavior when handling a large number of simultaneous requests that compete for shared resources.,Theory
+Contractual Acceptance Testing,Performed according to the acceptance criteria defined in a contract for custom software.,Theory
+Quality Control (QC),A set of activities designed to evaluate the quality of a component or system. ,Theory
+Configuration Testing,"Ensures compatibility with hardware platforms, operating systems, and network infrastructures.",Theory
+Cross-Browser Testing,Checks compatibility with various browsers and their versions.,Theory
+Cross-Platform Testing,Ensures compatibility with different operating systems.,Theory
+Cache,An intermediate storage buffer with fast access that stores frequently requested data.,Web
+Capacity,Sprint capacity. The number of story points allocated to Sprint Backlog items.,Theory
+Cookies,"Small pieces of data sent from a server to a user's browser, stored on the user's device.",Web
+LocalStorage,A type of web storage that allows websites to store data in the user's browser indefinitely.,Web
+Traceability Matrix (RTM),"A two-dimensional table that describes relationships between two entities (e.g., requirements and test cases).",Documentation
+Minimum Viable Product (MVP),A version of a product that allows the team to collect maximum customer feedback with minimal effort.,Theory
+Software Development Model (SDM),"A structure organizing various project activities, their interactions, and sequence during software development.",Theory
+OSI and TCP/IP Models,Protocol suites that enable communication between computers in a local network and over the Internet.,Web
+Unit Testing,"Used to test logically isolated components such as methods, functions, or classes in code. ",Theory
+MAC Address,A unique identifier assigned to each network interface card in Ethernet networks.,Web
+Mockup,A realistic model of the application used to show how the design will look on the frontend.,Theory
+Test Suite,A set of test cases or procedures executed in a specific test run.,Documentation
+Load Testing,Testing an application's ability to maintain performance under expected and slightly exceeding load levels.,Theory
+Negative Testing,"Examines application behavior in cases involving invalid operations or potentially error-prone data (e.g., division by zero).",Theory
+Work in Progress (WIP),The number of elements currently present in the system under review. (Kanban),Theory
+Non-relational Database,A database that doesn't use the traditional table format of rows and columns.,Databases
+Non-functional Testing,"Testing performed to assess characteristics such as usability, performance, or security.",Theory
+Low-Level Test Case,A test case that includes specific input data and expected results.,Theory
+Normalization,A process of organizing data to reduce redundancy and improve integrity.,Databases
+Normal Form,The level of data organization aimed at minimizing redundancy and enhancing consistency.,Databases
+Regulatory Acceptance Testing,"Conducted in compliance with regulations like government, legal, or safety standards.",Theory
+Non-functional Requirements,"Describe system properties like usability, reliability, scalability, and security.",Theory
+Quality Assurance (QA),Activities that ensure confidence that quality requirements will be fulfilled. ,Theory
+Volume Testing,Examines application performance when processing large volumes of data.,Theory
+Failure,An event in which a component or system fails to perform a required function as specified.,Theory
+Debugging,"The process of identifying, analyzing, and eliminating causes of failure. ",Theory
+Cause-Effect Graphing,A black-box testing technique where test cases are derived from cause-effect diagrams.,Test Design
+Defect Report,A document describing and prioritizing a defect to facilitate its resolution. ,Documentation
+Test Progress Report,"A periodic report containing info about testing progress, risks, and decisions needed.",Documentation
+Test Estimation,An approximation of the effort needed for various testing activities. ,Documentation
+Error,A human action that results in an incorrect outcome.,Documentation
+Test Pyramid,A metaphor that refers to grouping dynamic software tests across different levels.,Theory
+Test Plan,"Documentation describing the testing goals, resources, schedule, and coordination of testing activities. ",Documentation
+Re-testing,A type of change-related testing performed after fixing a defect to confirm that the failure caused by the defect no longer occurs.,Theory
+Positive Testing,"Testing the application under conditions where all actions are performed correctly without any errors, deviations, or incorrect input.",Theory
+User Story,A general description of program functionality written from the user’s perspective.,Documentation
+User Requirements,"Describe the tasks that a user should be able to perform using the system (system reactions to user actions, user workflows).",Theory
+User Acceptance Testing (UAT),Validating the system’s usability by intended users in a real or simulated work environment.,Theory
+Pairwise Testing,A black-box test design technique in which test cases are designed to execute all possible discrete combinations of each pair of input parameters. ,Test Design
+Error Guessing,A test technique based on the tester’s experience of failure types or previously detected issues.,Test Design
+Acceptance Testing,A test level aimed at deciding whether the system meets acceptance criteria.,Theory
+Test Design,The activity of deriving and specifying test cases based on test conditions. ,Test Design
+Team Velocity,A metric that reflects the amount of work a Scrum team can complete in a Sprint.,Theory
+Product Backlog,An ordered and constantly updated list of what is needed to improve the product. (in Scrum),Theory
+Product Owner,Responsible for maximizing the value of the product resulting from the work of the Scrum Team.,Theory
+Pull Request (PR),"A feature in collaborative development platforms like GitHub, GitLab, Bitbucket that allows developers to request merging changes into the main branch.",Git & Bash
+Git Distribution,"Means that each developer works with a local copy of the repository, including the full project history. (GIT)",Git & Bash
+Extended Testing,"Focused on exploring the entire functionality declared in the requirements, even if some parts are low-priority.",Theory
+Regression Testing,Change-related testing to detect introduced or previously undetected defects in unchanged areas of software.,Theory
+Git Repository,A data storage that contains all project files and their change history in GIT.,Git & Bash
+Manual Testing,Testing where test cases are executed manually by a human without automation tools. ,Theory
+Representational State Transfer (REST),An architectural style that defines conditions for API operations.,Web
+Ad Hoc Testing,"A fully informal testing approach without using test cases, checklists, or scripts — based on the tester’s intuition and professionalism.",Theory
+Kanban Services,Service units consisting of one or more people working together to deliver products. (in Kanban),Theory
+Version Control System,Allows saving the history of file changes and returning to previous states.,Git & Bash
+Database Management System (DBMS),An interface (software) between a database and users or programs.,Databases
+System Testing,"Refers to testing the entire system as a whole, performed after integration testing to check the complete system’s functionality.",Theory
+Delivery Speed in Kanban,The speed at which items are delivered. (in Kanban),Theory
+Software Requirements Specification (SRS),A document that includes all product-level requirements and can be a large document (hundreds or thousands of pages).,Documentation
+Static Testing,Testing that does not require the execution of the component or system being tested.,Theory
+Stress Testing,Investigation of application behavior under abnormal load conditions exceeding planned levels or during the unavailability of critical resources.,Theory
+Scrum,"A lightweight framework that helps individuals, teams, and organizations generate value through adaptive solutions for complex problems.",Theory
+Scrum Master,Responsible for ensuring Scrum is understood and enacted according to the Scrum Guide.,Theory
+Scrum Team,"A small team of people, typically no more than 10.",Theory
+SessionStorage,"Similar to LocalStorage, but stores data only for the duration of the browser session (cleared when tab or window is closed).",Web
+Sprint,A container for all other events in Scrum.,Theory
+Sprint Backlog,"Includes the Sprint Goal (why), selected Product Backlog items (what), and an actionable plan (how) for delivering the Increment. (in Scrum)",Theory
+Sprint Planning,Initiates a Sprint by planning the work to be performed in that Sprint.,Theory
+SQL (Structured Query Language),"A programming language used by most relational databases for querying, processing, defining data, and access control.",Databases
+Decision Tables,A good way to document complex business rules that must be implemented in the system. Inputs and corresponding outputs form the table rows.,Test Design
+Testing,A process in the software development lifecycle that evaluates the quality of a component or system and its associated artifacts. ,Theory
+Security Testing,Testing aimed at verifying the application’s ability to resist malicious access attempts to data or functionality.,Theory
+White-box Testing,Testing based on an analysis of the internal structure of a component or system. ,Theory
+Recoverability Testing,"Testing the application’s ability to restore its functions, performance, and data after a critical failure.",Theory
+Accessibility Testing (A11Y),"Testing to assess the product’s usability by people with disabilities (e.g., visual impairments).",Theory
+Internationalization Testing (i18n),Testing to ensure the product is ready to work with various languages and cultural specifics.,Theory
+Critical Path Testing,Focused on investigating functionality used by typical users during their daily operations.,Theory
+Localization Testing (l10n),Testing to ensure correct and high-quality adaptation of the product for use in a specific language and culture.,Theory
+Scalability Testing,Evaluation of the application’s ability to improve performance as additional resources become available.,Theory
+Reliability Testing,Testing the application’s ability to perform its functions under specified conditions for a given period or number of operations.,Theory
+Scripted Testing,"A formal approach in which testing is performed based on prewritten test cases, test suites, and other documentation.",Theory
+Checklist-Based Testing,An experience-based testing technique where test scenarios are derived from checklist items.,Theory
+Failover Testing,"Testing involving simulated or real critical failures to verify the application’s ability to activate fallback mechanisms and maintain operability, performance, and data integrity.",Theory
+Software Testing,Verification of the conformity between actual and expected behavior of the program.,Theory
+Software Testing (Detailed),The process of analyzing software and associated documentation to detect defects and improve product quality. ,Theory
+Performance Testing,Investigation of the application’s response speed under various types and intensities of load.,Theory
+Compatibility Testing,Testing aimed at verifying the application’s ability to operate in a specified environment.,Theory
+State Transition Testing,A black-box test design technique where test cases are created based on a state transition model. ,Test Design
+Usability Testing,"Testing aimed at evaluating how understandable, learnable, operable, and attractive a product is to end users.",Theory
+Black-Box Testing,A test technique based on the analysis of the specifications of a component or system. ,Theory
+Test Case,"A set of preconditions, inputs, actions (if applicable), expected results, and postconditions, developed from test conditions.",Documentation
+Test Scenario,A sequence of product interactions tied to a limited business process and corresponding correctness checks.,Documentation
+Requirement,A condition that includes mandatory fulfillment criteria. ,Theory
+Test Level,A specific implementation of the testing process. ,Theory
+Test Levels,Groups of testing activities organized and managed as a single entity. ,Theory
+Quality Management,"Coordinated activities to direct and control an organization with respect to quality, including policy setting, planning, control, assurance, and improvement.",Theory
+URL (Uniform Resource Locator),An address assigned to a unique resource on the internet.,Web
+Functional System Testing,Includes tests to evaluate the functions that the system must perform.,Theory
+Functional Requirements,"Describe the system’s behavior, i.e., its actions (computations, transformations, verifications, processing, etc.).",Theory
+Feature,A request to add a new function to the software or modify existing functionality.,Documentation
+HTTP (HyperText Transfer Protocol),"An application layer data transfer protocol originally for hypertext documents (HTML), now used to transmit arbitrary data.",Web
+HTTP Method,A verb or noun describing the required action.,Web
+HTTPS,An extension of HTTP that provides secure communication.,Web
+Checklist,"A collection of ideas: testing ideas, development ideas, planning and management ideas — any ideas.",Documentation
+Change Request,A request to configure or modify the system.,Documentation
+Operational Acceptance Testing,Acceptance testing by system administrators or operational staff in a (simulated) production environment.,Theory
+Enhancement,"A request to implement new ideas, behavior, or functionality.",Documentation
